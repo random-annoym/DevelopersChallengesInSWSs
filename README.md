@@ -1,5 +1,4 @@
-# DevelopersChallengesInSWSs
-Scientific Workflow Systems (SWSs) automate tasks, standardize workflows, integrate tools, and enhance collaboration in research, boosting productivity and fostering transparency. Developers have to face numerious challenges to construct these SWSs. In this research we aim to invesigate on these challenges.
+# Developers Challenges In Scientific 
 
 Scientific Workflow Systems (SWSs) play a critical role in the contemporary scientific landscape, significantly enriching research endeavors by augmenting productivity and fostering collaboration, SWSs elevate the standard of scholarly inquiry, fortifying its pillars of reproducibility and ethical adherence. In essence, they serve as the bedrock upon which efficient, transparent, and impactful research is built, propelling knowledge and innovation across diverse fields. SWSs accomplish mundane yet essential tasks intrinsic to scientific inquiry—ranging from data acquisition to analysis and reporting. By liberating researchers from the shackles of manual labor, SWSs enable them to channel their energies toward more intellectually demanding pursuits, thereby enhancing the pace and quality of research outcomes.
 
